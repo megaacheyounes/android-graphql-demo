@@ -1,12 +1,9 @@
 
 # Android compose GraphQL example
 
-Simple GraphQL demo
+Simple Android GraphQL demo with Jetpack compose
 
-## download GraphQL Schema command
+The app load list of countries from `https://countries.trevorblades.com/graphql`, and show country details in a dialog.
 
-```bash
-./gradlew :app:downloadApolloSchema --endpoint="https://countries.trevorblades.com/graphql" --schema=./app/src/main/graphql/com/younes/schema.graphqls
-```
 
 

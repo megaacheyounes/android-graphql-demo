@@ -13,7 +13,7 @@ apollo {
 }
 
 android {
-    namespace = "com.younes.graphql"
+    namespace = "com.younes.graphqlcountriesapp"
     compileSdk = 33
 
     defaultConfig {
